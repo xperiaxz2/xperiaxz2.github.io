@@ -1,10 +1,10 @@
 [
 	{
-		"Name": "PacoOne",
+		"Name": "AutomataSAT",
 		"Value": true
 	},
 	{
-		"Name": "PacoTwo",
+		"Name": "PacoOne",
 		"Value": false
 	}
 ]
