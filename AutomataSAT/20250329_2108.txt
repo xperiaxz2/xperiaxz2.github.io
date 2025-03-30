@@ -1,0 +1,2 @@
+CGR2102194T0AAAA210711UB8Steps: element click intercepted: Element <a id="btn..." class="btn mainButton mr-2 waves-light bootbox-cancel waves-effect waves-light" style="">Limpiar</a> is not clickable at point (1167, 600). Other element would receive the click: <div class="bootbox modal fade bootbox-alert show" tabindex="-1" role="dialog" aria-modal="true" style="padding-right: 15px; display: block;">...</div>
+  (Session info: MicrosoftEdge=134.0.3124.93)
