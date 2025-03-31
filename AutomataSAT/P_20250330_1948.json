@@ -1,0 +1,54 @@
+[
+  {
+    "Rfc": "RFC",
+    "VencimientoObligacion": "Vencimiento Obligacion",
+    "FechayHoradeEmision": "Fecha y Hora de Emision",
+    "VigenteHasta": "Vigente Hasta",
+    "LineadeCaptura": "Linea de Captura",
+    "ImporteTotalaPagar": "Importe Total a Pagar",
+    "FechadelPago": "Fecha del Pago",
+    "ImportePagado": "Importe Pagado",
+    "NodeOperacion": "No de Operaci\u00F3n",
+    "LlavedePago": "Llave de Pago",
+    "Periodo": "Periodo"
+  },
+  {
+    "Rfc": "CGR2102194T0",
+    "VencimientoObligacion": "25/03/2025",
+    "FechayHoradeEmision": "30/03/2025 - 19:48",
+    "VigenteHasta": "09/04/2025",
+    "LineadeCaptura": "0425 27Y9 5700 4565 2445",
+    "ImporteTotalaPagar": "$1,357,576",
+    "FechadelPago": "27/03/2025 09:38",
+    "ImportePagado": "$1,357,576",
+    "NodeOperacion": "120865161702",
+    "LlavedePago": "63A0941438",
+    "Periodo": "Febrero"
+  },
+  {
+    "Rfc": "CGR2102194T0",
+    "VencimientoObligacion": "28/04/2025",
+    "FechayHoradeEmision": "30/03/2025 - 19:48",
+    "VigenteHasta": "28/04/2025",
+    "LineadeCaptura": "0425 1ZPW 0400 4584 4465",
+    "ImporteTotalaPagar": "$1,357,903",
+    "FechadelPago": "18/03/2025 17:47",
+    "ImportePagado": "$1,357,903",
+    "NodeOperacion": "120785543890",
+    "LlavedePago": "B762550530",
+    "Periodo": "Marzo"
+  },
+  {
+    "Rfc": "CGR2102194T0",
+    "VencimientoObligacion": "24/02/2025",
+    "FechayHoradeEmision": "30/03/2025 - 19:42",
+    "VigenteHasta": "24/02/2025",
+    "LineadeCaptura": "0425 12TA 8500 4518 4422",
+    "ImporteTotalaPagar": "$1,419,904",
+    "FechadelPago": "17/02/2025 11:09",
+    "ImportePagado": "$1,419,904",
+    "NodeOperacion": "120495976797",
+    "LlavedePago": "995D503827",
+    "Periodo": "Enero"
+  }
+]
