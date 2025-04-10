@@ -1,0 +1,62 @@
+[
+  {
+    "Rfc": "RFC",
+    "VencimientoObligacion": "Vencimiento Obligacion",
+    "FechayHoradeEmision": "Fecha y Hora de Emision",
+    "VigenteHasta": "Vigente Hasta",
+    "LineadeCaptura": "Linea de Captura",
+    "ImporteTotalaPagar": "Importe Total a Pagar",
+    "FechadelPago": "Fecha del Pago",
+    "ImportePagado": "Importe Pagado",
+    "NodeOperacion": "No de Operaci\u00F3n",
+    "LlavedePago": "Llave de Pago",
+    "Periodo": "Periodo",
+    "Marca": "Marca",
+    "FechadeConsulta": "Fecha de Consulta"
+  },
+  {
+    "Rfc": "CBR121206RS7",
+    "VencimientoObligacion": "",
+    "FechayHoradeEmision": "",
+    "VigenteHasta": "",
+    "LineadeCaptura": "",
+    "ImporteTotalaPagar": "",
+    "FechadelPago": "",
+    "ImportePagado": "",
+    "NodeOperacion": "",
+    "LlavedePago": "",
+    "Periodo": "Enero",
+    "Marca": "No presentado",
+    "FechadeConsulta": "10-04-2025"
+  },
+  {
+    "Rfc": "CBR121206RS7",
+    "VencimientoObligacion": "",
+    "FechayHoradeEmision": "",
+    "VigenteHasta": "",
+    "LineadeCaptura": "",
+    "ImporteTotalaPagar": "",
+    "FechadelPago": "",
+    "ImportePagado": "",
+    "NodeOperacion": "",
+    "LlavedePago": "",
+    "Periodo": "Febrero",
+    "Marca": "No presentado",
+    "FechadeConsulta": "10-04-2025"
+  },
+  {
+    "Rfc": "CBR121206RS7",
+    "VencimientoObligacion": "",
+    "FechayHoradeEmision": "",
+    "VigenteHasta": "",
+    "LineadeCaptura": "",
+    "ImporteTotalaPagar": "",
+    "FechadelPago": "",
+    "ImportePagado": "",
+    "NodeOperacion": "",
+    "LlavedePago": "",
+    "Periodo": "Marzo",
+    "Marca": "No presentado",
+    "FechadeConsulta": "10-04-2025"
+  }
+]
