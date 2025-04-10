@@ -1,0 +1,53 @@
+AGR2012166C1 : 0:0:1
+ALA030116D71 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+AMA050315MW8 : 0:0:1
+AME070726F14 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+APL201005F95 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+ASA0910163S4 : 0:0:1
+AUCM790816M28 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+AVA201026UA7 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+BAOC690916MQ3 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+BHA210326AM4 : 0:0:1
+CAI230316HM1 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+CAN120215BU0 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+CAP160525IZ5 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+CAPG9105159H8 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+CAZ8809154L0 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+CBE100906KI9 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+CBR121206RS7 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+CCM120215TE9 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+CIVM710505SI0 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+CPZ7708054G5 : 0:0:1
+Step 2 D: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
+Step 2 P tr: No se puede crear un archivo que ya existe.
