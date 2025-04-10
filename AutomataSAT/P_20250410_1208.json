@@ -1,0 +1,62 @@
+[
+  {
+    "Rfc": "RFC",
+    "VencimientoObligacion": "Vencimiento Obligacion",
+    "FechayHoradeEmision": "Fecha y Hora de Emision",
+    "VigenteHasta": "Vigente Hasta",
+    "LineadeCaptura": "Linea de Captura",
+    "ImporteTotalaPagar": "Importe Total a Pagar",
+    "FechadelPago": "Fecha del Pago",
+    "ImportePagado": "Importe Pagado",
+    "NodeOperacion": "No de Operaci\u00F3n",
+    "LlavedePago": "Llave de Pago",
+    "Periodo": "Periodo",
+    "Marca": "Marca",
+    "FechadeConsulta": "Fecha de Consulta"
+  },
+  {
+    "Rfc": "CBR121206RS7",
+    "VencimientoObligacion": "21/03/2025",
+    "FechayHoradeEmision": "10/04/2025 - 12:08",
+    "VigenteHasta": "09/04/2025",
+    "LineadeCaptura": "0425 2AJ3 4700 4565 7400",
+    "ImporteTotalaPagar": "$128,176",
+    "FechadelPago": "31/03/2025 10:41",
+    "ImportePagado": "$128,176",
+    "NodeOperacion": "507629209025",
+    "LlavedePago": "B32EC59739",
+    "Periodo": "Febrero",
+    "Marca": "",
+    "FechadeConsulta": "10-04-2025"
+  },
+  {
+    "Rfc": "CBR121206RS7",
+    "VencimientoObligacion": "20/02/2025",
+    "FechayHoradeEmision": "10/04/2025 - 12:08",
+    "VigenteHasta": "09/03/2025",
+    "LineadeCaptura": "0425 1B1C 3500 4534 4490",
+    "ImporteTotalaPagar": "$174,433",
+    "FechadelPago": "21/02/2025 16:00",
+    "ImportePagado": "$174,433",
+    "NodeOperacion": "549746605225",
+    "LlavedePago": "F764330E23",
+    "Periodo": "Enero",
+    "Marca": "",
+    "FechadeConsulta": "10-04-2025"
+  },
+  {
+    "Rfc": "CBR121206RS7",
+    "VencimientoObligacion": "",
+    "FechayHoradeEmision": "",
+    "VigenteHasta": "",
+    "LineadeCaptura": "",
+    "ImporteTotalaPagar": "",
+    "FechadelPago": "",
+    "ImportePagado": "",
+    "NodeOperacion": "",
+    "LlavedePago": "",
+    "Periodo": "Marzo",
+    "Marca": "No presentado",
+    "FechadeConsulta": "10-04-2025"
+  }
+]
