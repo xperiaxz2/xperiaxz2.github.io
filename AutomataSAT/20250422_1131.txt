@@ -1,0 +1,258 @@
+Step 3 Limpiar: element click intercepted: Element <a id="btn..." class="btn mainButton mr-2 waves-light bootbox-cancel waves-effect waves-light" style="">Limpiar</a> is not clickable at point (1000, 415). Other element would receive the click: <div id="modalDialogSession" class="modal fade show" style="z-index: 9999; padding-right: 7.5px; display: block;" aria-modal="true" role="dialog">...</div>
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
+Steps: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=135.0.3179.85)
