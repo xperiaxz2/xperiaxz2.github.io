@@ -1,0 +1,62 @@
+[
+  {
+    "Rfc": "RFC",
+    "VencimientoObligacion": "Vencimiento Obligacion",
+    "FechayHoradeEmision": "Fecha y Hora de Emision",
+    "VigenteHasta": "Vigente Hasta",
+    "LineadeCaptura": "Linea de Captura",
+    "ImporteTotalaPagar": "Importe Total a Pagar",
+    "FechadelPago": "Fecha del Pago",
+    "ImportePagado": "Importe Pagado",
+    "NodeOperacion": "No de Operaci\u00F3n",
+    "LlavedePago": "Llave de Pago",
+    "Periodo": "Periodo",
+    "Marca": "Marca",
+    "FechadeConsulta": "Fecha de Consulta"
+  },
+  {
+    "Rfc": "BCO020307UT0",
+    "VencimientoObligacion": "25/04/2025",
+    "FechayHoradeEmision": "13/05/2025 - 15:57",
+    "VigenteHasta": "28/04/2025",
+    "LineadeCaptura": "0425 2IZF 6900 4584 1449",
+    "ImporteTotalaPagar": "$1,843,043",
+    "FechadelPago": "10/04/2025 12:18",
+    "ImportePagado": "$1,843,043",
+    "NodeOperacion": "121145756750",
+    "LlavedePago": "F1F198DD41",
+    "Periodo": "Marzo",
+    "Marca": "",
+    "FechadeConsulta": "13-05-2025"
+  },
+  {
+    "Rfc": "BCO020307UT0",
+    "VencimientoObligacion": "24/03/2025",
+    "FechayHoradeEmision": "13/05/2025 - 15:58",
+    "VigenteHasta": "24/03/2025",
+    "LineadeCaptura": "0425 1R5I 7800 4549 8475",
+    "ImporteTotalaPagar": "$433,994",
+    "FechadelPago": "13/03/2025 13:17",
+    "ImportePagado": "$433,994",
+    "NodeOperacion": "120775396135",
+    "LlavedePago": "995D048A33",
+    "Periodo": "Febrero",
+    "Marca": "",
+    "FechadeConsulta": "13-05-2025"
+  },
+  {
+    "Rfc": "BCO020307UT0",
+    "VencimientoObligacion": "21/02/2025",
+    "FechayHoradeEmision": "13/05/2025 - 15:58",
+    "VigenteHasta": "24/02/2025",
+    "LineadeCaptura": "0425 17M5 1700 4518 7423",
+    "ImporteTotalaPagar": "$892,695",
+    "FechadelPago": "19/02/2025 13:32",
+    "ImportePagado": "$892,695",
+    "NodeOperacion": "120515219126",
+    "LlavedePago": "9032E16C21",
+    "Periodo": "Enero",
+    "Marca": "",
+    "FechadeConsulta": "13-05-2025"
+  }
+]
