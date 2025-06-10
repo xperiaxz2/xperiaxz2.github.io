@@ -1,10 +1,10 @@
 [
 	{
-		"Name": "AppOne",
-		"Value": false
+		"Name": "Automata SAT",
+		"Value": true
 	},
 	{
-		"Name": "AppTwo",
-		"Value": false
+		"Name": "Automata SAT Yucatan",
+		"Value": true
 	}
 ]
