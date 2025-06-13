@@ -1,0 +1,487 @@
+12/06/2025 08:23:45 p. m.
+COM090408IA9
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+CPE870220F40
+CPM060427F28
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+CPR101220UY5
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+CPR151020U62
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+CPS941128MX4
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+CSE0808205HA
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+CSM101110IX7
+CSP110127GA9
+CTE210517IP8
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+CTO1401175Z3
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+CUB180720DS0
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+CUVO840908KH5
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+CVE1710171M7
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DAC101119KY2
+DAU030927QU4
+DCI160719PP2
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DCO1702105G7
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DCO210917GN6
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DDN181018RU3
+DEN161129KL4
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DIB141028514
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DIC151219MF6
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DIP150930L51
+DIPW7809076W4
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DMC0904204N3
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DMC150320TT6
+DMI180529D90
+DML2108095L9
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DOMJ791007CL6
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DPA1103197B2
+DUL111108ND8
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+DXLF890430GR9
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+EAD1902288LA
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+EAI860530DA3
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+EAS160728CS3
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+ECC220810GZ3
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+ECE2003179Q7
+ECI1212071K2
+EDI160909QI7
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+EES180620L52
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+EIN201028AH2
+EJU200207SB7
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+ELS201107QE4
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+EMN230308BJ3
+ENA141020CN2
+ENM120919AI1
+ENO990427MJ3
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+EPI110818U42
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+EPM211130583
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+EPS160429PW0
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+ERP170407CU9
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+ESA2005273X1
+ESA2302202KA
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+ESP9009274J1
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+EXC181220M76
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+FAG210728M63
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+FBC140708HL1
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+FCE0705292G8
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+FEL201110FP8
+FHM9712102M8
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+FICK881009177
+FOLS8705086K1
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+FPO030730B17
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+FRE200907R64
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+FSS190620ND4
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+FSU20061025A
+GAAE841130PS1
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GAAL650320884
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GAB1206198W4
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GAC060929RX7
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GAC220610FY7
+GAD1408194K5
+GADG690628G59
+GAFG780429687
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GAGB760508VD4
+GAHD470628Q14
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GANJ970227913
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GARR811027GI8
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GAS080130L35
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GAS130529EX6
+GAT180508LM6
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GAVL700807773
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GBA220708UL7
+GBO150427V54
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GCA1809192N8
+GCA990618PI9
+GCI020709R97
+GCO180817SA4
+GCS180719GMA
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GCZ890610IM4
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GDC1311209TA
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GEB991119GPA
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GFF201009RJ6
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GFR050620MI5
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GGD140620GH7
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GGS210907SJ3
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GHE120509JN5
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GHV110629TP9
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GIA0005089PA
+GIE120629RH7
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GIG180308LE9
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GII1501274Z4
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GIJE870829TX2
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GIS1403282AA
+GOA1912092Y5
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GOBP7406305H5
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GOCE911210N81
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GOCL831128U49
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GODR6403299G4
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GOGG411119F46
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GOGO611230EG7
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GOHB611020U61
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GOPA951007IV9
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GOPC671020H59
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GOR200330SE3
+GPG1207189D0
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GRA131028JL3
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GRE080530JA2
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GRV230418FA5
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GSF130620AH2
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GSG150608686
+GTA160728HT9
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GTA960508UL1
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GUCA640430FI5
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GUCC620927T21
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GUEA8403171D5
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GUVJ640410NYA
+GVP161110LR6
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+GVP1701274C0
+H&A050129178
+HAM1312194H1
+HAS2102096B0
+HCR190610AA7
+HCR210430FM3
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+HELA9710085U6
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+HERJ810708JZ7
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+HETR680430C23
+HFA170630C92
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+HJU8406271E6
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+HPM2210199T4
+HPR091130LI2
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+HRC910618E2A
+HTA1909205K5
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+HVA080310QP7
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+IAD170818EN2
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+IAG151007MY1
+IAGE590220M72
+IAJ100329BR7
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+IAP030610HG6
+Step1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
