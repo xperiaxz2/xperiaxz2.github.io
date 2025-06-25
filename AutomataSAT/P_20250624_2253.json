@@ -1,0 +1,32 @@
+[
+  {
+    "Rfc": "RFC",
+    "VencimientoObligacion": "Vencimiento Obligacion",
+    "FechayHoradeEmision": "Fecha y Hora de Emision",
+    "VigenteHasta": "Vigente Hasta",
+    "LineadeCaptura": "Linea de Captura",
+    "ImporteTotalaPagar": "Importe Total a Pagar",
+    "FechadelPago": "Fecha del Pago",
+    "ImportePagado": "Importe Pagado",
+    "NodeOperacion": "No de Operaci\u00F3n",
+    "LlavedePago": "Llave de Pago",
+    "Periodo": "Periodo",
+    "Marca": "Marca",
+    "FechadeConsulta": "Fecha de Consulta"
+  },
+  {
+    "Rfc": "AAIM7404073L3",
+    "VencimientoObligacion": "23/06/2025",
+    "FechayHoradeEmision": " 24/06/2025 - 22:5",
+    "VigenteHasta": "23/06/2025",
+    "LineadeCaptura": "0425 4329 1100 4641 3240",
+    "ImporteTotalaPagar": "$13,717",
+    "FechadelPago": "17/06/2025",
+    "ImportePagado": "$13,717",
+    "NodeOperacion": "76229",
+    "LlavedePago": "444A46D164",
+    "Periodo": "Mayo",
+    "Marca": "",
+    "FechadeConsulta": "24-06-2025"
+  }
+]
