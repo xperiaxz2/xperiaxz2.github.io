@@ -1,10 +1,6 @@
 [
 	{
-		"Name": "Automata SAT",
+		"Name": "Automata",
 		"Value": true
-	},
-	{
-		"Name": "Automata SAT Yucatan",
-		"Value": false
 	}
 ]
