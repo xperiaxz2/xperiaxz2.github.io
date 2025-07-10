@@ -1,0 +1,111 @@
+10/07/2025 02:10:03 p. m.
+AACA820625J6A
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="padding-right: 7.5px; display: block;">...</div>
+  (Session info: MicrosoftEdge=138.0.3351.77)
+AIMC021027ATA
+ALA690127EZ5
+AOAR530105C14
+APO960307KYA
+ATS170215K11
+AUD050506RF7
+BAFL801025JH9
+BAPL691206FKA
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="padding-right: 7.5px; display: block;">...</div>
+  (Session info: MicrosoftEdge=138.0.3351.77)
+BDE101208HT0
+BPS1902277Q2
+BTN180317JT5
+CAAL9109062M1
+CAC840607BC9
+CAGH890315M3A
+CAOJ691006659
+CAPO881025DI7
+CDG19121631A
+CEM0708285H5
+CES0711263X5
+CII1505058M7
+CLA1703065W0
+CNM1603071R5
+COOM790106PA7
+CPN181005QS6
+CUGE471116HX3
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="padding-right: 7.5px; display: block;">...</div>
+  (Session info: MicrosoftEdge=138.0.3351.77)
+DES770616655
+DHI1708251T0
+DIGB590515C52
+DMR130605CG4
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="padding-right: 7.5px; display: block;">...</div>
+  (Session info: MicrosoftEdge=138.0.3351.77)
+DSV8907178MA
+EAHC990615487
+ESE0901083Q6
+FADM920516JY7
+FCO1903261K2
+FLO820405967
+GAGB760508VD4
+GAGR041125UQ6
+GARR830305332
+GCA990618PI9
+GDE210915TP7
+GIO020405AS7
+GLD180206MS9
+GMP2110059WA
+GOTE470105D92
+GRA131028JL3
+GST8505152M9
+GULR870825U31
+GURH560325AW3
+HEGS991206730
+HORS910415JD2
+ICA930225142
+IDE190408B99
+IMC210908EB8
+INS060815TR0
+IYA200507473
+KALB800626ELA
+KLA200326CZ2
+LEWJ670908FC6
+LFN2101058KA
+LIN210805PS6
+LMP920316JC3
+MIA180127C38
+MLN130506L83
+MMA2206164NA
+MOCE7511253G0
+MOIV650205JD7
+MOPG641106L62
+MORD0011166W5
+MOVA9003167Y8
+MSI1811067G1
+OOGM490425633
+ORC0701088D0
+PARJ680626SM1
+PCE221018NC7
+PIE230928BS4
+PIM1701188G0
+PSF180727QG1
+PUQR690615JR8
+RAP090225T49
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=138.0.3351.77)
+RECJ930208QG6
+RIVO811115HB2
+ROGG7909262Q4
+ROMF741016K58
+RORL7103264H2
+RSA000208AV1
+RUMA770306772
+RXN031025232
+SARM740316AQ3
+SCI170208QK4
+SIR1612059N9
+SMM1911156E7
+SPA230425DR2
+SSM210326677
+SWE090115642
+TAL230426EUA
+TASE830615783
+TIA150216V73
+TTC070905T4A
+VIMN660116AJ0
