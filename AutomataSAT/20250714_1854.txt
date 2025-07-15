@@ -1,0 +1,11 @@
+14/07/2025 06:51:43 p. m.
+BTR2203119T4
+CFA1106225Z8
+EVA040512FL2
+HHE1007224W7
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (10, 8). Other element would receive the click: <div class="container-fluid header">...</div>
+  (Session info: MicrosoftEdge=138.0.3351.83)
+HHP1705021EA
+MMA150622P83
+MRI010410Q37
+SAV971122EF8
