@@ -1,0 +1,32 @@
+[
+  {
+    "Rfc": "RFC",
+    "VencimientoObligacion": "Vencimiento Obligacion",
+    "FechayHoradeEmision": "Fecha y Hora de Emision",
+    "VigenteHasta": "Vigente Hasta",
+    "LineadeCaptura": "Linea de Captura",
+    "ImporteTotalaPagar": "Importe Total a Pagar",
+    "FechadelPago": "Fecha del Pago",
+    "ImportePagado": "Importe Pagado",
+    "NodeOperacion": "No de Operaci\u00F3n",
+    "LlavedePago": "Llave de Pago",
+    "Periodo": "Periodo",
+    "Marca": "Marca",
+    "FechadeConsulta": "Fecha de Consulta"
+  },
+  {
+    "Rfc": "AAA220801E90",
+    "VencimientoObligacion": "",
+    "FechayHoradeEmision": "",
+    "VigenteHasta": "",
+    "LineadeCaptura": "",
+    "ImporteTotalaPagar": "",
+    "FechadelPago": "",
+    "ImportePagado": "",
+    "NodeOperacion": "",
+    "LlavedePago": "",
+    "Periodo": "Julio",
+    "Marca": "No presentado",
+    "FechadeConsulta": "20-08-2025"
+  }
+]
