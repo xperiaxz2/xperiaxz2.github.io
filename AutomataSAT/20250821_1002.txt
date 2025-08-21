@@ -1,0 +1,110 @@
+21/08/2025 09:38:09 a. m.
+AADE890206452
+AAE070226VA9
+AAG160805FE9
+AEGC720405DG4
+AGM120925ES4
+AHI970805H40
+ATC120605E70
+BAL050715QU5
+BAO130326TU0
+BIM180625C20
+BIN0802066H6
+BPI131015DV7
+BRI190515MF9
+BRL010226372
+CAG8508156V4
+CCA530915S24
+CHA720925MG4
+CKE201026FE5
+CLU9512154BA
+CMM121025DS8
+COM060626E74
+CPA8711067M2
+DCE011025BR2
+DME140116DY6
+DNT030515BQ8
+DSO041116HRA
+EAS2201267Z5
+ESC960215RM4
+FAC161025374
+FAO740715MZA
+FDP021015476
+FME070615AC7
+FME930305PK5
+FML170426U96
+FTT900326NX1
+GACO790325HT8
+GFA0906261UA
+GIZ020115NY2
+GME120306QV9
+GOE061215148
+GORC681105UT3
+GRO231115815
+HAE550425QX9
+HBE1110261V7
+HHO080416IB5
+HPM161026SWA
+HTA230216DN4
+IDM070326FY4
+IFR100625NE6
+IIC210226AA7
+IIN751126MV3
+IME140415JL8
+INY180406LA3
+ISC0412159F7
+KIN180206GI0
+KME140625FJ5
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+LCE160905KT9
+LOPF8708256BA
+LRI141016EU6
+MAR120126DTA
+Step 2 P tr: startIndex ('-1') must be a non-negative value. (Parameter 'startIndex')
+Actual value was -1.
+Step 3 Shot: Object reference not set to an instance of an object.
+MEA9711067I2
+MIR930716JL9
+MMC1302257Q8
+MMS120815CW8
+MPU990625PT7
+MRA961126FR0
+NCO161226C37
+OCS15022671A
+PAA150616GS9
+PEL910215HX6
+PRO001205996
+Q&M0102157F1
+RACP641006CV7
+RAG171206SP8
+RERM810406JM9
+RRA170406MA6
+SAG161116NT4
+SAG190125A67
+SAR080716LN0
+SFB131126FS0
+SIG2004063H2
+SIM1409265E0
+SME060815M50
+SNE1410168U1
+SSA171206GL6
+STM130926AI7
+SVI020315GS3
+TAM1607261C0
+TAT160315LQ6
+TBA1711154B0
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+TCA150505765
+TCI030206423
+TDE000525KP2
+TEL1205165V7
+TET100426PJ7
+TIM130416JH5
+TMK950105LYA
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+TMM980305948
+USA111205CL2
+VARO830416ME5
