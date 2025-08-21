@@ -1,0 +1,62 @@
+[
+  {
+    "Rfc": "RFC",
+    "VencimientoObligacion": "Vencimiento Obligacion",
+    "FechayHoradeEmision": "Fecha y Hora de Emision",
+    "VigenteHasta": "Vigente Hasta",
+    "LineadeCaptura": "Linea de Captura",
+    "ImporteTotalaPagar": "Importe Total a Pagar",
+    "FechadelPago": "Fecha del Pago",
+    "ImportePagado": "Importe Pagado",
+    "NodeOperacion": "No de Operaci\u00F3n",
+    "LlavedePago": "Llave de Pago",
+    "Periodo": "Periodo",
+    "Marca": "Marca",
+    "FechadeConsulta": "Fecha de Consulta"
+  },
+  {
+    "Rfc": "AAGC7411035CA",
+    "VencimientoObligacion": "20/08/2025",
+    "FechayHoradeEmision": " 21/08/2025 - 06:3",
+    "VigenteHasta": "20/08/2025",
+    "LineadeCaptura": "0425 5B34 1400 4700 5235",
+    "ImporteTotalaPagar": "$59,120",
+    "FechadelPago": "08/08/2025",
+    "ImportePagado": "$59,120",
+    "NodeOperacion": "344845922025",
+    "LlavedePago": "FBD687C280",
+    "Periodo": "Julio",
+    "Marca": "",
+    "FechadeConsulta": "21-08-2025"
+  },
+  {
+    "Rfc": "AAR160824BB0",
+    "VencimientoObligacion": "",
+    "FechayHoradeEmision": "",
+    "VigenteHasta": "",
+    "LineadeCaptura": "",
+    "ImporteTotalaPagar": "",
+    "FechadelPago": "",
+    "ImportePagado": "",
+    "NodeOperacion": "",
+    "LlavedePago": "",
+    "Periodo": "Julio",
+    "Marca": "No presentado",
+    "FechadeConsulta": "21-08-2025"
+  },
+  {
+    "Rfc": "AARM851204GL8",
+    "VencimientoObligacion": "",
+    "FechayHoradeEmision": "",
+    "VigenteHasta": "",
+    "LineadeCaptura": "",
+    "ImporteTotalaPagar": "",
+    "FechadelPago": "",
+    "ImportePagado": "",
+    "NodeOperacion": "",
+    "LlavedePago": "",
+    "Periodo": "Julio",
+    "Marca": "No presentado",
+    "FechadeConsulta": "21-08-2025"
+  }
+]
