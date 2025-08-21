@@ -1,0 +1,43 @@
+21/08/2025 09:12:30 a. m.
+ACA1005147I7
+ADI120203QF5
+AIA090123B96
+AII150623G93
+AOSE761113HY4
+APT160923MV2
+CCO780104EW1
+CEI070723EJ7
+CME141113JE3
+COS991214CL2
+DCI181123B85
+DCM061114FW6
+DIC100914DA2
+DLO100714AI9
+EAS130114FB1
+ECC081113AX7
+GAGR671214UE1
+GAN1206044M9
+HCA090203N66
+HMA170504G61
+HPR2008035M9
+IVU150204FI1
+LBO200403IX7
+MFA120423EWA
+MMB1805142F8
+MOB191114KL6
+OBC180614QG0
+OHR181123CG6
+PAR980514EY5
+PDM1804248I3
+REN191024T62
+RPA180704PQ8
+SIC9508237U9
+SIN0403241P9
+SST070914PX2
+TBA970613FP4
+TMM161104490
+UCS2009042H5
+VAC180614961
+WMR2309045I0
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
