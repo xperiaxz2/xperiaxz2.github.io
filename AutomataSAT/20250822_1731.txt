@@ -1,0 +1,16 @@
+22/08/2025 05:30:24 p. m.
+AAA1605011J3
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ACM1203024FA
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AECR651111PU2
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="padding-right: 7.5px; display: block;">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+AEL220421K70
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#btnBuscarContribuyente"}
+  (Session info: MicrosoftEdge=139.0.3405.102); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=139.0.3405.102); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: An unknown exception was encountered sending an HTTP request to the remote WebDriver server for URL http://localhost:54142/session/7d461817bc3b18ce84de18aeefd965cf/element. The exception message was: An error occurred while sending the request.
+AEN1701318NA
+AAA1605011J3
