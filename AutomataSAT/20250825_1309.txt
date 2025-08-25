@@ -1,0 +1,112 @@
+25/08/2025 12:46:01 p. m.
+AIAB861117KV2
+AIC051117880
+AIN010118JR6
+APC151217R66
+ART030128Q37
+ASE110128HY8
+BACO640208PD1
+CCA95011855A
+CCO200228A29
+CCO230127112
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+CEL140117KS1
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+CETF7803289L7
+CHT190218IL4
+CLA180607T3A
+CLO2011184D9
+COF190207QJ8
+CON111207E58
+CPR0303189W1
+CTC061017G34
+CVA2002278J3
+CZA150327JA6
+DAA1910178L0
+DBO0511174L7
+DHP181127NC8
+DIME611028487
+DIN190808RS7
+DLA22101893A
+EAC190507QQ2
+ECO101208FJ3
+EMW141218363
+GAGL710918SP8
+GAS160428518
+GAV221107BR9
+GMC160427IB2
+HEGR7110284IA
+HRE120117QS6
+HTC9611072T4
+IEZ190328BP4
+IHE950817JU8
+IMA191127U36
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+IPR140917EU1
+KAR070508GX3
+KUM170808RE1
+LCA210217PC6
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+MCF2002286B5
+MMA101208MS5
+MRE230428P58
+MSJ170807K67
+MTL1010278B1
+NICC4608078C4
+OAA1708089W3
+Step 1 Modal: element not interactable: element has zero size
+  (Session info: MicrosoftEdge=139.0.3405.111)
+OEX090408VB8
+OHH1809184R5
+OPG190927KT9
+OPR050927V84
+ORO0411171U3
+PAC2203187RA
+PAO050128HC4
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+Step 1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=139.0.3405.111)
+PDE170828788
+PEDX751218TN3
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+PESM431027JW3
+PLA130418DVA
+PLU790918AU9
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+PMA010307FJ4
+PNE191018Q13
+RAC070227V3A
+RCA170208ST4
+RCI151207C39
+ROIR870308T76
+SAS091008TD7
+SCO101118375
+SIA0912184V0
+SIF200128CY4
+SLM210608D73
+SPE200908B72
+STC171208GQA
+SUYI971118QQ3
+SYL971007KF8
+TCC180108M73
+TCO010528MV8
+TIB121218BP5
+UAC210527BQ1
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+UNM180717E61
+VAL120718EL2
+VGR2307182L6
+XAM001108I96
+YCA190708RX1
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+Step 1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=139.0.3405.111)
