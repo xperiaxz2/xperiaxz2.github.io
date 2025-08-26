@@ -1,0 +1,247 @@
+25/08/2025 11:09:47 p. m.
+AAFA590329RL3
+AAMJ580219FV4
+AASF951109JZ5
+ACC020409340
+ACF170830NN7
+ACI1201096X1
+ACO130409I70
+AOMR570629N81
+APT240229L9A
+ATA990129EJ4
+AUGG7101293Y5
+AUMC720520SZ2
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+AVE151020DU5
+BAGC700820R65
+BCO0410296L4
+BERR800610I28
+BESA431020MPA
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+BGA150109SJ6
+BGS050720QG3
+BMU2010191Z3
+CAD150409EE1
+CADC760920MT7
+CAGM680929UX5
+CASJ9507102K2
+CBA181019GH7
+CCB190909Q2A
+CEM190919GM9
+CIN2301202L7
+CLC080409H20
+CMC1905099EA
+CMV970129867
+COAP890629TV4
+CPR0309309I6
+CSM930809SU5
+CSS160119CXA
+DAF170829JN7
+DARA8010293W5
+DBO170309R69
+DED0804093J8
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+DES0411295Y8
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="padding-right: 7.5px; display: block;">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+DIC220729U82
+DILL610419BN2
+DIRG411029JC3
+DQU140730SH0
+DTD1202109A2
+EAA170209SS5
+EBC200219P14
+EIA891130LT1
+EME170710K74
+EMI971020PH5
+EUR9810304R2
+FAAC5902207WA
+FAAC940320QB3
+FALL7204307U0
+FCO120420513
+FOFJ6510196P5
+GADC691109CK5
+GADD7903092H6
+GAL150909818
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+GALV670709DX3
+GAPA850810SE7
+GCI21072977A
+GDO220610SV6
+GEN220509IH9
+GGD1810302V0
+GHA140319QYA
+GIM2104093C0
+GIN170609RI6
+GOAA681210HW2
+GOBA970319V29
+GOMA940320FN7
+GOPH880420KEA
+GOSJ800130CL0
+GSM211020CX5
+GTC191209C2A
+GUBA921109JAA
+GUCE540720EX9
+GUJO740529L46
+GUMJ7408202A8
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+HAAS7411204B9
+HCA190910RB3
+HELA900520G10
+HEVO890110FT3
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+HMA051129KJ8
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+HOE1510091C2
+HPE091109G66
+IAS210430241
+ICD911119FK1
+IIG2303102FA
+IMH111019QL1
+IPA651010FI6
+JIOT890210FL1
+KAG2002294V1
+KIT190820ET3
+LAC221110TM6
+LAOA910309TP3
+LOAG680129TZ2
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+LOGG721020BQ8
+LOGO740429JK4
+Step 1 Modal: element not interactable
+  (Session info: MicrosoftEdge=139.0.3405.102)
+LOR180910IA2
+MAA0702097QA
+MAGJ720229PM3
+MCA130919QR1
+MEHC770430AS5
+MELD830310JA1
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="padding-right: 7.5px; display: block;">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+MNC980709QE2
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="padding-right: 7.5px; display: block;">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+MOEL910509B65
+MOMF460829MV1
+MOPL610619SP4
+MUVR741220GD8
+NASJ8408107K9
+NHC2111296Y6
+NPR161119LY6
+OEFL610530DR8
+OMA711229J55
+PAGR790820HB8
+PANA880209HI7
+PCA211110FU1
+PDC0302102N6
+PDF230920D52
+PEGR900829A18
+PEJL801019L89
+PEP830520UH4
+PEV230920584
+PRA040210E81
+PRE150309P32
+PRM240530BZ8
+PSA081110TN0
+QFS19042975A
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+QUGM5110093E2
+RABP720120J9A
+RADA580220671
+RASV8407206S9
+RECM700409E4A
+RGU091020JX1
+RIC180219J96
+RIZD820109KSA
+ROBH600320KJ9
+ROGB5607195DA
+ROGN670509N56
+RORR730909JL1
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (10, 8). Other element would receive the click: <div class="container-fluid header">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+RPR220809AT4
+RPZ970730888
+RTE101210C59
+RUCL400329LN0
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+RUF0209107V6
+SACL5404106EA
+SAEA611019TS3
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+SAGE7905092DA
+SAGG610109Q64
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+SARA890220D52
+SARH7409194D7
+SAT2111109T5
+SCF141030IS1
+SDD100329RKA
+SEGV010929PN3
+SEMF7005191N2
+SHE070519BE9
+SIA180129UT3
+SIG160329VE9
+SIS190219UH6
+SLO2307192N9
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+SMG211020L72
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+SOFJ740719655
+SSM1808103D0
+STA230310TEA
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+TAS050810GU8
+TDI071109CB4
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+TEN160419SPA
+TERY690209QV5
+TFS141020A61
+TGJ210809L14
+TGR210219TE2
+TIRA961119PV3
+TMX170110AM0
+TNR201109CU1
+TOLR760609K32
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+TOMC7703308P7
+TPA2305107T1
+TRA190509CA0
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="padding-right: 7.5px; display: block;">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.102)
+TRT1608102F0
+TSL201219JN0
+TSM180709FX6
+TTP180810V24
+TUN821020397
+ULC150819HF7
+UPS1311192S4
+UPV120120CA6
+VAFA700420QA2
+VAFR560129MH6
+VAGV791229UX4
+VALA720429GP6
+VARD760710Q32
+VCO140709UK8
+VDC210519RW0
+VERJ901009SC3
+VEVA8306309B0
+VIJR670919FR3
+WPS151009GL4
+ZUGU760330DQA
