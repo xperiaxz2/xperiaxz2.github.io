@@ -1,0 +1,114 @@
+26/08/2025 09:43:44 a. m.
+AAM211007HC0
+Step 1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=139.0.3405.111)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=139.0.3405.111)
+ACE210127SW4
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+ACU210707129
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="modal-backdrop fade"></div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+ADI1903279U5
+AIAB861117KV2
+AIC051117880
+APC951208CM6
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+ARE220627416
+ART030128Q37
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+BSG2308086E5
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+CALG811007FV0
+CASS610117AQ8
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (10, 8). Other element would receive the click: <div class="container-fluid header">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+CCA150707U25
+CCO1404283Q0
+CCO230127112
+CGA171218JN8
+CHA081007MD8
+CKR210607RK3
+CLA1704282PA
+CNR0506086I0
+COF190207QJ8
+CON110628NG5
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.111)
+CON111207E58
+CTT170627RT2
+DCS1704077W2
+DHP181127NC8
+DIME611028487
+DRE210507L43
+EEFF791027193
+EMA960527GY3
+EME150317169
+ENC231108NA1
+EUAA610717SSA
+EUS160908T21
+EXI970528S91
+FAR041207RN5
+FTR190208DR5
+FVI070307KV0
+FWP070618UV3
+GACM761108FQ0
+GGC23031796A
+GPS1511272W9
+GUAV720728S21
+HAB160707D15
+HARY920727TC8
+HEGR7110284IA
+HIL170208K38
+HRE120117QS6
+IAS140218R21
+IFO100208IT8
+IPR140917EU1
+JIGP930128GQ1
+KAR070508GX3
+KUM170808RE1
+LCA210217PC6
+LRO211018B54
+LVI2205273BA
+MCA220818TIA
+MCS0803089XA
+MEHR750107QS2
+MIC181107LA5
+MMA101208MS5
+MRE230428P58
+NTG170208776
+OHC151008UA9
+OHH1809184R5
+OPF181128NS2
+OTT1610071T7
+PAC2203187RA
+PAZ960828TXA
+PBU070627DY6
+PESM431027JW3
+PNE191018Q13
+PTM9812188F8
+PUT180108HBA
+REV170407EV4
+RIJA610727MN1
+ROA160707I53
+ROOC7003087R5
+SCO101118375
+SER190717F50
+SIF200128CY4
+SMN190507AF7
+SPE2403073F7
+TCC180108M73
+TEAL860708EB8
+TNE071017SB2
+TNT1712073Q4
+TPA1302073T6
+UAC210527BQ1
+UNM180717E61
+VIVN9208081DA
+WGA230808KN5
+WOC1711074H6
+XAM001108I96
