@@ -1,0 +1,36 @@
+28/08/2025 04:36:22 p. m.
+AEE191202UJA
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=139.0.3405.119)
+AIS180301BQ5
+ALD950921G27
+ATU1708224F5
+BAPL810611KX0
+BETM6402027Q3
+CCM0212126Z7
+CGA870812J91
+CLH231122L71
+CMG2208128Z3
+CMT180312DS7
+EIM090502S52
+HGT871221EX9
+HHE1007224W7
+HNE210521RW0
+KSM050211GP9
+MAG170831GL6
+MAR091021GQ1
+MCE230201L22
+NLS210222BE2
+ODT071011CBA
+OTP171201UZ4
+RACD890722UJ8
+SCG210312QF9
+SCR2301121N2
+SHM151111R49
+SOAM771202LP8
+STE050111EH0
+TCA121221CK3
+UPM2107123X1
+VALL80081117A
+VARN8711114FA
+ZAEE820702TY8
