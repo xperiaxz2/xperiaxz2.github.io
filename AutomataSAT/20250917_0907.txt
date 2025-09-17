@@ -1,0 +1,109 @@
+17/09/2025 08:50:18 a. m.
+AAG980601B78
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ACQ0209133M1
+ADC830720NB8
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+ALV1202286B5
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+Step 1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=140.0.3485.54)
+BAO130326TU0
+CAA920901KB6
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+Step 1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=140.0.3485.54)
+CAN060117PP1
+CCP211022NK0
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+Step 1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=140.0.3485.54)
+Step 3 Limpiar: element not interactable
+  (Session info: MicrosoftEdge=140.0.3485.54)
+CJJ940329HU6
+CMA980112UG9
+DAC070712NJ4
+DAT9907271U8
+DAV000331MH6
+ECU701103U8A
+EZA080131C9A
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+Step 1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=140.0.3485.54)
+FGA8401018K7
+FMA800610ES5
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+FRI980529AR7
+GFA0906261UA
+GIZ020115NY2
+GPE8410012I9
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+HHO080416IB5
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+IBR1312096Y2
+IJM540124PA9
+ILO930621FZ2
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+KME980508IM0
+LOP171208AV7
+MAN940419JA2
+MAP2110228U2
+MAR120126DTA
+Step 2 P tr: startIndex ('-1') must be a non-negative value. (Parameter 'startIndex')
+Actual value was -1.
+Step 3 Shot: Object reference not set to an instance of an object.
+MDE080125382
+MEG011006AC3
+MPU990625PT7
+NCA9004041U2
+OMN9707175H4
+RCO070118KP4
+RIH8703265Y2
+RMK9802033P7
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+RNU830730JG6
+SAG7209024N0
+SIM050829JH2
+SLA100819I40
+SMA9704024W1
+SME071023EK8
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="modal-backdrop fade"></div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+SSM970912699
+Step 2 P tr: startIndex ('-1') must be a non-negative value. (Parameter 'startIndex')
+Actual value was -1.
+Step 3 Shot: Object reference not set to an instance of an object.
+STE020121UH1
+SVI810112T87
+TAN040213NE3
+TAR000217LR2
+TEL1205165V7
+TME0403164D2
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.54)
+TPL201202KI7
+TSU790219984
+UAA011124IL4
+UGA691121N29
+UTV9809119Q1
+VMM1205077Q0
+VNO1602036FA
+AAG980601B78
+MAR120126DTA
+Step 2 P tr: startIndex ('-1') must be a non-negative value. (Parameter 'startIndex')
+Actual value was -1.
+Step 3 Shot: Object reference not set to an instance of an object.
+SSM970912699
+Step 2 P tr: startIndex ('-1') must be a non-negative value. (Parameter 'startIndex')
+Actual value was -1.
+Step 3 Shot: Object reference not set to an instance of an object.
