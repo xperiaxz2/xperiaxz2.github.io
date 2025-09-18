@@ -1,0 +1,327 @@
+18/09/2025 08:49:05 a. m.
+AAC860408NN0
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AAGG581117236
+AAGT610308M68
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AAL090807EW0
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AAMJ520718NE5
+AAN2012086Z0
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AAPJ750817PV4
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AARA860218S93
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=140.0.3485.66)
+AAT090828EN4
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ACA180327EZ2
+ACA230327AI4
+ACE210927CV9
+ACJ1805081R5
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ACO140227H32
+ACO2106076E3
+ACP980218AJA
+ACS220427HQ8
+ADE070517TPA
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ADM960517JG9
+AEAA640327255
+AEBM8312276E9
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AEF1108275B0
+AEJJ600517RP7
+AENC571117JH4
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AEP740628PR9
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AEX210517UY6
+AGA050308BQ2
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AGU840218DT3
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AID2302286M2
+AISL581018CK7
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AJO8602175W3
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ALO8303185Z0
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ALS2308188E8
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ALV1202286B5
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AMA160708IEA
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AMA190327IWA
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AMC190617TZ1
+AMC201127355
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AME110908RZ1
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AME181218C4A
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AMM0709078A9
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ANH180828SH1
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AOO2011184TA
+APC180117H58
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+APR130607P51
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+APR191107RP5
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+APR960527MA2
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+APS900118FU0
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ARA980417IX9
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ARO8208173H4
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ARR900308CT3
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ASA940818HQ8
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ASE090727VA3
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ASJ9908271G2
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ASL220308864
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ASM071218CU3
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ASM121227NPA
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+ASP020408R57
+ATP011227AH0
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AUGJ7002281F5
+AUJ920518LY1
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AUMF6811086YA
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AUPR800807QY8
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+AURM801117QDA
+AUSS941227KJ7
+AWO1108085ZA
+BAAS5612078H8
+BABH850308L53
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+BADJ7604181F2
+BAOO820928S67
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+BASS591007QD2
+BCE860318SQ9
+BCS030127K97
+BDC140207FWA
+BDH1505272G8
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+BEA870217CR1
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+BEC220128N23
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+BERA680318FX7
+BIO120208HW7
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+BMA2211187E1
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+BME161107NI1
+BME240928IV6
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+BOR000907LU0
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+BOR131018KR3
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+BSU8302087G6
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+BTE050118TE3
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+BUBS890227UK1
+BUES660428JQ5
+BVI9706172X5
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CAA8511181Z6
+CAAA500807IL1
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CAAC600908SK8
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CAB010907FK3
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CABB710127LZ2
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CAC1307174A6
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CAC140128Q68
+CACC720408J65
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CAG221207IF7
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CAI151007C18
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+CAJ2107074M1
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CAL110428FS2
+CALJ8610177H1
+CAN060117PP1
+CANM960618MT1
+CANP7104287V1
+CARE9011173B9
+CAS090827JH2
+CASG650828546
+CAVC891208TT7
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=140.0.3485.66)
+CAZU8208175M0
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+CBA171018U59
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CBA190808N45
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CBC210308S13
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CBO9612176Q5
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CCA171017EX6
+CCE050518R44
+CCE160217S11
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CCE8303189Z8
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CCI211208BR8
+CCI810108NU2
+CCO0906183L7
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CCO150227463
+CCO9608272K8
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CDA220408859
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CDA8509172Q6
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CDI980618JK2
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CDO200928RV7
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CDP100527EG9
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CEF040708J75
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CEG070508IU4
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CEGV490128UR8
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CERD5002188P3
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CESM770928QS4
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CFF0109182U4
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CFL1502274S8
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CGP840927GI1
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CHA9312085V8
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CHG141218KX2
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CIC070828PT5
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CIC620707JV6
+CIL1612072T7
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CIM060208JC5
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CIT140728T71
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+CLO220628HT2
+CMC051007QL3
+CMC220127IDA
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CMI160128S63
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CMO021008K86
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CMP110407V14
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CMR090528F81
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+COC970908418
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+COF091007M76
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+COL020527137
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+COLR610127JB3
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+COM170808L89
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+CORY020907TS4
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+CPA9804089W4
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="modal-backdrop fade"></div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CPL200207MV0
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+CPM2007278Z6
+Steps Modal: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=140.0.3485.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+CPP230807K20
+Steps Modal: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 1: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 2 P: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 3 Modal: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=140.0.3485.66)
+Step 3 Limpiar: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=140.0.3485.66)
+CPP2403076Q3
+AAC860408NN0
