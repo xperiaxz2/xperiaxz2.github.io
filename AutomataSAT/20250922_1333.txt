@@ -1,0 +1,22 @@
+22/09/2025 01:26:56 p. m.
+AAG980601B78
+ACQ0209133M1
+CMA980112UG9
+EZA080131C9A
+GFA0906261UA
+GPE8410012I9
+MAR120126DTA
+Step 2 P tr: startIndex ('-1') must be a non-negative value. (Parameter 'startIndex')
+Actual value was -1.
+Step 3 Shot: Object reference not set to an instance of an object.
+RCO070118KP4
+Step 2 P tr: The HTTP request to the remote WebDriver server for URL http://localhost:64302/session/bb6443951ef02cc7c1230c0d9e83276c/actions timed out after 60 seconds.
+Step 3 Shot: Object reference not set to an instance of an object.
+SLA100819I40
+TPL201202KI7
+VNO1602036FA
+MAR120126DTA
+Step 2 P tr: startIndex ('-1') must be a non-negative value. (Parameter 'startIndex')
+Actual value was -1.
+Step 3 Shot: Object reference not set to an instance of an object.
+RCO070118KP4
