@@ -1,0 +1,83 @@
+23/09/2025 01:03:42 p. m.
+AMA090824RG5
+APT160923MV2
+ATG201013EN0
+BPM2205032P1
+CAS120814MJ9
+CCA150123184
+CCO210913813
+CCO780104EW1
+CDE1711137C8
+CFR120113PI0
+CME141113JE3
+CTM221013PP1
+CVR061223B31
+DCE190404A31
+ECA0109146B8
+ECA220623VB9
+ECC081113AX7
+FVP0901236H5
+GAGR671214UE1
+GAL1107138J2
+GAN1206044M9
+GBH170724AQ7
+GDI010823PB3
+GHM230623B32
+GIG210624K25
+GSZ050404CI3
+GUA220224AP8
+HPE200723BM6
+IAI2205241T4
+IIE001024S86
+IIM180213K77
+IOCL760804HU2
+IRS230804RK4
+IVU150204FI1
+L&P040604PS8
+LPL170124I73
+MAFJ721224790
+MAPJ9502146H1
+MDE1512033R4
+MGR110913L60
+MMA140723QF6
+MSU050623P87
+NADR630104GP3
+NFP210713D62
+OBC180614QG0
+OCA020524BZ9
+OCM210923Q63
+OHC880913QU3
+OJC220923DT1
+OOM1006035D1
+OPR070813UNA
+PCA081204IZ4
+ROBJ881013VD8
+RPA180704PQ8
+RSC9912036T0
+RSR170213NM5
+RSU210223265
+RUBR530514IX7
+SCC061004GU3
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.81)
+SEAR640713I77
+SHR070914577
+SIC9508237U9
+SST070914PX2
+STS050223AR8
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.81)
+Step 1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=140.0.3485.81)
+TEN020503MR3
+TFR120214LB1
+THO991013TR5
+TIN1409231Z2
+TRO160404DU9
+TSU160503BY0
+UTU1405145Q7
+VAC180614961
+VPA191104HPA
+WMR2309045I0
+XDE050114616
+ZSO091014I97
