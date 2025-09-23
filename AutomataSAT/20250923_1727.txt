@@ -1,0 +1,17 @@
+23/09/2025 05:24:18 p. m.
+AMO980601L44
+CCA0706153M7
+CMV980925LQ7
+Step 1 Modal: element not interactable
+  (Session info: MicrosoftEdge=140.0.3485.81)
+DCA010111HM3
+DLS030814IN2
+FOF950111J83
+GER041022B53
+IFA8311252B4
+JES851114TY4
+LME021118QU7
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (603, 245). Other element would receive the click: <div class="col-8 col-xs-8 col-sm-4 col-md-4 col-lg-4 col-xl-4">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.81)
+OAR101011VD2
+SCU040223KA2
