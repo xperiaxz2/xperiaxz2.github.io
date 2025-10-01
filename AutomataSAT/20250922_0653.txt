@@ -1,0 +1,114 @@
+22/09/2025 06:23:52 a. m.
+AAP2406039E9
+ABC9310046U6
+ACC081114TR3
+ADI120203QF5
+ADO060613RM9
+AEE2002141H7
+AII150623G93
+AIS060614H5A
+APA1604148Y5
+AQR030213PHA
+AVE1211144C0
+AVE1705046H9
+CAD180424PH0
+CAG150624SD3
+CCV060104ARA
+CEI070723EJ7
+CIA2010147W0
+CIC931004HG1
+CMA0408246P1
+CMA991013ER1
+CSQ780524D56
+DCA190403MI1
+DIA980703KX3
+EAS130114FB1
+EAS130114IN1
+ECA0109146B8
+ECT060203GB9
+ECX1612235X7
+EUP180724H50
+FFL2302235R5
+FVP0901236H5
+GAM040504UV5
+GAN1206044M9
+GDT090413QP2
+HCH110113UU6
+HCM040113GJA
+HERR7607133K3
+HMA170504G61
+HPR2008035M9
+IDI160823M75
+IIE001024S86
+ITG010503QK6
+IVU150204FI1
+KGA150313LM0
+LAM181024NG6
+LBO200403IX7
+MAD1706143KA
+MAR07082342A
+MARA720413CF1
+MERJ660314IW8
+MFA120423EWA
+MGR110913L60
+MMB1805142F8
+MMC220214593
+MOB191114KL6
+MRE071214JD5
+MSU050623P87
+NFP210713D62
+OBC180614QG0
+OCV161123847
+OEL8206237W8
+OJC220923DT1
+OLA181003GV4
+OMX140404BU1
+PAC090323J82
+PAR980514EY5
+PCM950514FP5
+PDM1804248I3
+PDR060524NT9
+PIS961223P19
+PJA051103US2
+POS111123JA9
+PSB160224DX6
+QMA170824PU4
+RAC1512048C9
+REN191024T62
+RFQ150114L49
+RGO910923BV2
+RLN061004SV7
+Step 1 Modal: element not interactable
+  (Session info: MicrosoftEdge=140.0.3485.81)
+RMA130103RX2
+RMA9804131G6
+ROT190213VD4
+RUR2305046E1
+SHR070914577
+SIC9508237U9
+SIN0403241P9
+SST070914PX2
+TBA970613FP4
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.81)
+Step 1: element not interactable:  has no size and location
+  (Session info: MicrosoftEdge=140.0.3485.81)
+THO991013TR5
+TIM850204KX2
+UTU1405145Q7
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(../../img/icon_search.gif); background-color: white; border: 0; outline: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade show" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.81)
+VAC180614961
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (10, 8). Other element would receive the click: <div class="container-fluid header">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.81)
+VDE010704N98
+VSO980424190
+VTC860703NU8
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div id="loading" data-keyboard="false" data-backdrop="static" aria-modal="true" class="modal fade" role="dialog" style="display: block;">...</div>
+  (Session info: MicrosoftEdge=140.0.3485.81)
+VTM830704DN7
+Step 1 Modal: element click intercepted: Element <button id="btnBuscarContribuyente" class="" style="width: 27px; background-repeat: no-repeat round; background-image: url(&quot;../../img/icon_search.gif&quot;); background-color: white; border: 0px; outline: none; display: none;">...</button> is not clickable at point (739, 246). Other element would receive the click: <div class="modal-backdrop fade"></div>
+  (Session info: MicrosoftEdge=140.0.3485.81)
+WME110824UV0
+WMR2309045I0
+YLO131113D36

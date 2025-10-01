@@ -1,0 +1,47 @@
+[
+  {
+    "Rfc": "RFC",
+    "VencimientoObligacion": "Vencimiento Obligacion",
+    "FechayHoradeEmision": "Fecha y Hora de Emision",
+    "VigenteHasta": "Vigente Hasta",
+    "LineadeCaptura": "Linea de Captura",
+    "ImporteTotalaPagar": "Importe Total a Pagar",
+    "FechadelPago": "Fecha del Pago",
+    "ImportePagado": "Importe Pagado",
+    "NodeOperacion": "No de Operaci\u00F3n",
+    "LlavedePago": "Llave de Pago",
+    "Periodo": "Periodo",
+    "Marca": "Marca",
+    "FechadeConsulta": "Fecha de Consulta"
+  },
+  {
+    "Rfc": "DHE091019BEA",
+    "VencimientoObligacion": "25/08/2025",
+    "FechayHoradeEmision": "03/09/2025 - 21:09",
+    "VigenteHasta": "25/08/2025",
+    "LineadeCaptura": "0425 5WVZ 9300 4705 5435",
+    "ImporteTotalaPagar": "$546,729",
+    "FechadelPago": "25/08/2025",
+    "ImportePagado": "$546,729",
+    "NodeOperacion": "50386562",
+    "LlavedePago": "227C100387",
+    "Periodo": "Julio",
+    "Marca": "",
+    "FechadeConsulta": "03-09-2025"
+  },
+  {
+    "Rfc": "SMM930710RC0",
+    "VencimientoObligacion": "25/08/2025",
+    "FechayHoradeEmision": "03/09/2025 - 21:09",
+    "VigenteHasta": "25/08/2025",
+    "LineadeCaptura": "0425 5MWR 1800 4705 0465",
+    "ImporteTotalaPagar": "$2,843,588",
+    "FechadelPago": "25/08/2025",
+    "ImportePagado": "$2,843,588",
+    "NodeOperacion": "19431913854",
+    "LlavedePago": "AF40A97D80",
+    "Periodo": "Julio",
+    "Marca": "",
+    "FechadeConsulta": "03-09-2025"
+  }
+]

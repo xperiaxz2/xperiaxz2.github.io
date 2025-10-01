@@ -1,0 +1,680 @@
+25/09/2025 12:54:21 p. m.
+AABR860910588
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+AAD090910HG1
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+AHO191030MV5
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+ARE2103303K9
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+ASR0403102Q5
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+ATU1805296F3
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+BDO1304197P0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+BSC0310302E1
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+CACD751119FP0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+CAP0201093L7
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+CCG090930Q3A
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+CMC1212102K7
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+CVE1902198V3
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+DCE240229PZA
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+DEVL890609LY6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+DSI1312198Y8
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+EAVA790810BV6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+EOP190409AJ4
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+FBM190919LW2
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+FCS211119G85
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+FIN2108109L6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+FMS031020NB6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+FSK191230GQ0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+GCP131029GV2
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+GDP1907106Q0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+GFP0002293I9
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+HCS190320Q95
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+HMP2312191E0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+IBR091029PY4
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+IMA0605098W0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+LCO100210JB1
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+LORA800929MX0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+MAJ1411209C6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+MBH1705092X2
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+MGC170119AG6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+NALK790729GA3
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+NIM020730V33
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+OHR090930JJ1
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+OIDA900830PZ0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+PIA1409292N3
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+PIA190820371
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+PIN040209P74
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+PONA710329DXA
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+PPQ0901193I5
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+PST871230P17
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+RAC200210I32
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+ROM0701193Z6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+RURL9001309G4
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+SAM1411198N7
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+SCL170629ULA
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+SSR990210MS5
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+TDS240129131
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+TET041119V59
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+TRA120309IG5
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+TRE070320JS8
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+TTD190820JMA
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+VMA970730S16
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+WTB220809B57
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+AABR860910588
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+AAD090910HG1
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+AHO191030MV5
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+ARE2103303K9
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+ASR0403102Q5
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+ATU1805296F3
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+BDO1304197P0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+BSC0310302E1
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+CACD751119FP0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+CAP0201093L7
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+CCG090930Q3A
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+CMC1212102K7
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+CVE1902198V3
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+DCE240229PZA
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+DEVL890609LY6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+DSI1312198Y8
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+EAVA790810BV6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+EOP190409AJ4
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+FBM190919LW2
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+FCS211119G85
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+FIN2108109L6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+FMS031020NB6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+FSK191230GQ0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+GCP131029GV2
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+GDP1907106Q0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+GFP0002293I9
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+HCS190320Q95
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+HMP2312191E0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+IBR091029PY4
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+IMA0605098W0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+LCO100210JB1
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+LORA800929MX0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+MAJ1411209C6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+MBH1705092X2
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+MGC170119AG6
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+NALK790729GA3
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+NIM020730V33
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+OHR090930JJ1
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: no such element: Unable to locate element: {"method":"css selector","selector":"#btnLimpiar"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+OIDA900830PZ0
+Step 1: no such element: Unable to locate element: {"method":"css selector","selector":"#Rfc"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 2 P: no such element: Unable to locate element: {"method":"css selector","selector":"#tableBody"}
+  (Session info: MicrosoftEdge=140.0.3485.81); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Step 3 Limpiar: An unknown exception was encountered sending an HTTP request to the remote WebDriver server for URL http://localhost:57939/session/fbad0baf0077306e2a829266c00aad86/element. The exception message was: An error occurred while sending the request.
+PIA1409292N3

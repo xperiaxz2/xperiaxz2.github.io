@@ -1,0 +1,62 @@
+[
+  {
+    "Rfc": "RFC",
+    "VencimientoObligacion": "Vencimiento Obligacion",
+    "FechayHoradeEmision": "Fecha y Hora de Emision",
+    "VigenteHasta": "Vigente Hasta",
+    "LineadeCaptura": "Linea de Captura",
+    "ImporteTotalaPagar": "Importe Total a Pagar",
+    "FechadelPago": "Fecha del Pago",
+    "ImportePagado": "Importe Pagado",
+    "NodeOperacion": "No de Operaci\u00F3n",
+    "LlavedePago": "Llave de Pago",
+    "Periodo": "Periodo",
+    "Marca": "Marca",
+    "FechadeConsulta": "Fecha de Consulta"
+  },
+  {
+    "Rfc": "CAN060117PP1",
+    "VencimientoObligacion": "23/05/2025",
+    "FechayHoradeEmision": "16/09/2025 - 22:31",
+    "VigenteHasta": "26/05/2025",
+    "LineadeCaptura": "0425 3CZL 1200 4613 5438",
+    "ImporteTotalaPagar": "$825,406",
+    "FechadelPago": "23/05/2025",
+    "ImportePagado": "$825,406",
+    "NodeOperacion": "512144914325",
+    "LlavedePago": "B1779C7458",
+    "Periodo": "Abril",
+    "Marca": "",
+    "FechadeConsulta": "16-09-2025"
+  },
+  {
+    "Rfc": "GML070115GX3",
+    "VencimientoObligacion": "",
+    "FechayHoradeEmision": "",
+    "VigenteHasta": "",
+    "LineadeCaptura": "",
+    "ImporteTotalaPagar": "",
+    "FechadelPago": "",
+    "ImportePagado": "",
+    "NodeOperacion": "",
+    "LlavedePago": "",
+    "Periodo": "Abril",
+    "Marca": "No presentado",
+    "FechadeConsulta": "16-09-2025"
+  },
+  {
+    "Rfc": "UTV9809119Q1",
+    "VencimientoObligacion": "20/05/2025",
+    "FechayHoradeEmision": "16/09/2025 - 22:31",
+    "VigenteHasta": "20/05/2025",
+    "LineadeCaptura": "0425 3A20 1900 4607 1446",
+    "ImporteTotalaPagar": "$10,769",
+    "FechadelPago": "20/05/2025",
+    "ImportePagado": "$10,769",
+    "NodeOperacion": "599931214025",
+    "LlavedePago": "2FA016DC57",
+    "Periodo": "Abril",
+    "Marca": "",
+    "FechadeConsulta": "16-09-2025"
+  }
+]

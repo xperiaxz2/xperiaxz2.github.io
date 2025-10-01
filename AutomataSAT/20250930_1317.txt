@@ -1,0 +1,6 @@
+30/09/2025 01:11:01 p. m.
+AAU190816GJ0
+ABT110615GD3
+ADE041125PLA
+Step 1: element not interactable: [object HTMLButtonElement] has no size and location
+  (Session info: MicrosoftEdge=140.0.3485.94)

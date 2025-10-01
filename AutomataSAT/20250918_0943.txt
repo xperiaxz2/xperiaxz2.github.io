@@ -1,0 +1,24 @@
+18/09/2025 09:40:28 a. m.
+EDA9011079P7
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+GSJ010718E41
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+SEH071217QV2
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+VAC161108A56
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+YIA141118768
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+EDA9011079P7
+GSJ010718E41
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+SEH071217QV2
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+VAC161108A56
+Step 2 P tr: The process cannot access the file because it is being used by another process.
+YIA141118768
+Step 2 P tr: The process cannot access the file because it is being used by another process.
